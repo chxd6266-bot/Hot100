@@ -1,0 +1,3 @@
+[submodule "Hot100review"]
+	path = Hot100review
+	url = https://github.com/CHENszu/Hot100review.git
