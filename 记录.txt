@@ -1,0 +1,11 @@
+git init
+git config user.name "chxd6266-bot"
+git config user.email "chxd6266@gmail.com"
+git remote add origin https://github.com/chxd6266-bot/Hot100
+git remote -v
+git add .
+git commit -m 'xxx'
+git branch
+git branch -M main
+git push -u origin main
+# git remote rm origin
